@@ -1,0 +1,5 @@
+{
+    "board": "arduino:avr:uno",
+    "sketch": "T-Rex_Dyno.ino",
+    "port": "COM3"
+}
