@@ -12,6 +12,8 @@ This game is a project for Arduino, using a SH1106 display and two HW201 infrare
   &nbsp;&nbsp; :small_orange_diamond: Outline Effect using Canny Detector  
   &nbsp;&nbsp; :small_orange_diamond: Cartoon Filter using Median Cut algorithm
 
+## :gem: Demo
+
 ## :page_facing_up: License
 This project is available under the [MIT][ref-mit] license; see [LICENSE](LICENSE) for the full license text.
 
