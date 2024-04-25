@@ -24,6 +24,11 @@ This game is an Arduino Uno project aiming to replicate the immersive experience
 ## :gem: Demo
   [![Game Demo](https://img.youtube.com/vi/42q6RQ7Zfn4/0.jpg)](https://www.youtube.com/watch?v=42q6RQ7Zfn4)
 
+## :books: Libraries
+- [Adafruit SSD1306](https://www.arduino.cc/reference/en/libraries/adafruit-ssd1306/)
+- [Adafruit GFX Library](https://www.arduino.cc/reference/en/libraries/adafruit-gfx-library/)
+- [EEPROM Library](https://docs.arduino.cc/learn/built-in-libraries/eeprom/)
+
 ## :page_facing_up: License
 This project is available under the [MIT][ref-mit] license; see [LICENSE](LICENSE) for the full license text.
 
